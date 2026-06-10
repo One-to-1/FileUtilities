@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 *.pyc
+
+# Only keep generic sample fixtures (sample.xml, sample.json, etc.)
+samples/*
+!samples/sample.*

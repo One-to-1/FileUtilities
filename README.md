@@ -26,6 +26,7 @@ The converter is chosen based on the input/output file extensions.
 ## Supported conversions
 
 - XML -> XLSX
+- JSON -> XLSX
 
 ## Adding a new converter
 
