@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <id>1</id>
+        <name>Alice Smith</name>
+        <email>alice@example.com</email>
+        <department>Engineering</department>
+    </record>
+    <record>
+        <id>2</id>
+        <name>Bob Jones</name>
+        <email>bob@example.com</email>
+        <department>Marketing</department>
+    </record>
+    <record>
+        <id>3</id>
+        <name>Carla Diaz</name>
+        <email>carla@example.com</email>
+        <department>Sales</department>
+    </record>
+</records>
