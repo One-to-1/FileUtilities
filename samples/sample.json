@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "department": "Engineering",
+        "address": {
+            "city": "Springfield",
+            "zip": "12345"
+        },
+        "tags": ["admin", "engineer"]
+    },
+    {
+        "id": 2,
+        "name": "Bob Jones",
+        "email": "bob@example.com",
+        "department": "Marketing",
+        "address": {
+            "city": "Shelbyville",
+            "zip": "67890"
+        },
+        "tags": ["sales"]
+    },
+    {
+        "id": 3,
+        "name": "Carla Diaz",
+        "email": "carla@example.com",
+        "department": "Sales",
+        "address": {
+            "city": "Capital City",
+            "zip": "54321"
+        },
+        "tags": ["sales", "lead"]
+    }
+]

@@ -1,8 +1,10 @@
 """Registry of available file format converters."""
+from .json_to_xlsx import convert as json_to_xlsx
 from .xml_to_xlsx import convert as xml_to_xlsx
 
 REGISTRY = {
     ("xml", "xlsx"): xml_to_xlsx,
+    ("json", "xlsx"): json_to_xlsx,
 }
 
 
